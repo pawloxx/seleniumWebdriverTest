@@ -4,6 +4,7 @@
 - Java
 - Selenium WebDriver
 - Cucumber
+- Gherkin
 - BDD
 - Page Object Pattern
 - Page Factory
