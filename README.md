@@ -1,4 +1,4 @@
-# Tests that use Selenium WebDriver
+# Tests Automation
 
 ## Built with
 - Java
